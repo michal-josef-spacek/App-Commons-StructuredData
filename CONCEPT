@@ -1,0 +1,6 @@
+CONCEPT
+=======
+Command line utility for structured data on Commons.
+
+Functionality:
+- use Datatype::Print::Mediainfo and print.
